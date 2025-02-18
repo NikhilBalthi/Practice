@@ -9,7 +9,7 @@ public class FindDuplicates {
     public static void main(String[] args) {
         int[] nums = {1,99,101,100,101,33,4,44,44};
         System.out.println(findDuplicates(nums));
-        System.out.println("hi another check");
+        if(1>0) return;
     }
 
     private static Set<Integer> findDuplicates(int[] nums) {
